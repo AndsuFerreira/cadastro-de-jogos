@@ -1,6 +1,7 @@
 <h1 aligh=center>Cadastro de Jogos</h1>
 
-![Status em desenvolvimento](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue)
+![Badge Status em desenvolvimento](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue)
+![Badge Exercicio da Alura](https://img.shields.io/badge/Exercicio-Alura-green)
 
 <h2>:page_facing_up:Descrição</h2>
 Esse projeto é um exercício realizado durante as aulas da Alura, sendo utilizado para estudo de Git e GitHub.
