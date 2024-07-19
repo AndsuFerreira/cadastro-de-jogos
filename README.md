@@ -1,10 +1,18 @@
-<h1>Cadastro de Jogos</h1>
+<h1 aligh=center>Cadastro de Jogos</h1>
 
-> Status do projeto: Em desenvolvimento
+![Status em desenvolvimento](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue)
 
-Para roda esse projeto na sua máquina, por favor digite:
+<h2>:page_facing_up:Descrição</h2>
+Esse projeto é um exercício realizado durante as aulas da Alura, sendo utilizado para estudo de Git e GitHub.
 
-```
-node app.js
-```
-:)
+<h2>:computer:Tecnologias Utilizadas</h2>
+<li>HTML</li>
+<li>JavaScript</li>
+
+<h2>:thumbsup:Pessoas Contribuintes</h2>
+<li>Guilherme Lima</li>
+<li>Paulo Silveira</li>
+<li>Camila Alves</li>
+
+<h2>:pencil2:Desenvolvedor</h2>
+<li>Anderson Ferreira</li>
